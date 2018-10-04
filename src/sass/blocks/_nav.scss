@@ -28,7 +28,7 @@
 
   &__title {
     @extend %txt--banner;
-    color: cc(txt, alt);
+    color: cc(title);
   }
 
   &__menu {
