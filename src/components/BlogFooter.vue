@@ -1,13 +1,12 @@
 <template>
   <transition appear name="v--mask">
     <footer v-once class="blog__footer">
-      <a class="signature" href="https://snipcart.com" target="_blank">
-        <img src="../assets/vue-snip.svg"/>
-      </a>
+      <socials></socials>
     </footer>
   </transition>
 </template>
 
 <script>
-export default { name: 'blog-footer' }
+	import Socials from './Socials.vue';
+	export default { name: 'blog-footer', components: {'socials': Socials} };
 </script>

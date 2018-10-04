@@ -1,0 +1,23 @@
+.social-connect {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	@media (min-width: 650px) {
+		-webkit-box-pack: start;
+		-ms-flex-pack: start;
+		justify-content: flex-start;
+	}
+
+	a {
+		display: block;
+		margin: 0 1.1rem;
+		text-align: center;
+
+		&:first-of-type {
+			margin-left: 0;
+		}
+	}
+}
