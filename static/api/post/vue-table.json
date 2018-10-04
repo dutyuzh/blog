@@ -1,0 +1,13 @@
+{
+  "results": [{
+    "id": "vue-table",
+    "title": "Vue Table",
+    "content": "Example of Vue-Table goes here.\n\nShow working example that is in my github.",
+    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/nate-rayfield.jpg",
+    "meta": {
+      "description": "Vue table description.",
+      "published": "2019-10-04T13:57:35Z",
+      "author": "Dasha Utyuzh"
+    }
+  }]
+}
