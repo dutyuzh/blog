@@ -1,3 +1,6 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+
 # A Killer Vue.js Blog Demo: Launch in 2 Hours Tops
 
 ![vuejs-blog-demo](https://snipcart.com/media/175864/build-vuejs-blog-copy.jpg)
